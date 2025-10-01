@@ -64,4 +64,6 @@ Explore the trusted Canadian darknet experience today at http://hh2paw7ouhfjozyl
 [![img](/static/data.webp)](http://hh2paw7ouhfjozylujs3qp4rql7xc76ce63ffzvtlpicjqgeiqxp4oad.onion)
 
 
-Update:  Thursday 18 September 2025 Fantastic! The link is now responsive and working.
+
+
+Update:  01 October Invalid URLs fixed
